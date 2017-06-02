@@ -1,0 +1,150 @@
+Eukaryota
+
+Bikonta
+    Archaeplastida
+      Chloroplastida
+            Chlorophyta
+              Chlorophyceae
+                Chlamydomonas reinhardtii (Crei) => 0
+      Plantae
+            Embryophyta
+              Bryopsida
+                Bryophyta
+                          Physcomitrella_patens_(Ppat) => 1
+              Tracheophyta
+                Lycophyta
+                          Selaginella_moellendorffii_(Smoe) => 2
+                Angiosperm
+                          Amborella_trichopoda_(Atri) => 3
+                          Arabidopsis_thaliana_(Atha) => 4
+
+    Haptophyta
+        Coccolithophora
+                Emiliana huxleyi (Ehux) => 5
+    Rhizaria
+        Cercozoa
+                Bigelowiella natans (Bnat) => 6
+        Foraminifera
+                Reticulomyxa filosa (Rfil) => 7
+
+Amorphea
+  Apusozoa
+            Apusomonanida
+                Thecamonas trahens (Ttra) => 8
+  Opisthokonta
+    Holomycota
+      Nucleariidae
+                Fonticula alba (Falb) => 9
+      Fungi
+              Chytridiomycota
+                Spizellomyces punctatus (Spun) => 10
+              Blastocladiomycota
+                Allomyces macrogynus (Amac) => 11
+              Ascomycota
+                Saccharomyces cerevisiae (Scer) => 12
+
+    Holozoa
+      Ichthyosporea
+                Sphaeroforma arctica (Sarc) => 13
+                Creolimax fragrantissima (Cfra) => 14
+      Node1
+            Filasterea
+                Capsaspora owczarzaki (Cow_) => 15
+            Node2
+               Choanoflagellata
+                   Salpingoeca rosetta (Sros) => 17
+                   Monosiga brevicollis (Mbre) => 16
+
+               Metazoa
+                  Porifera
+                     Demospongiae
+                        Amphimedon queenslandica (Aque) => 18
+                     Homoscleromorpha
+                        Oscarella carmela (Ocar) => 19
+                  Eumetazoa
+                     Ctenophora
+                        Tentaculata Lobata
+                           Mnemiopsys leidyi (Mley) => 20
+                        Tentaculata Cydippida
+                        Pleurobrachia bachei (Pbac) => 21
+                     Placozoa
+                        Trichoplax adhaerens (Tadh) => 22
+                     Planulozoa
+                        Cnidaria
+                           Anthozoa
+                              Nematostella vectensis (Nvec) => 23
+                              Acropora digitifera (Adig) => 24
+                           Medusozoa
+                              Hydra magnipapillata (Hmag) => 25
+
+                        Bilateria
+
+                           Lophotrochozoa
+                              Platyhelminthes
+                                 Monogenea
+                                    Gyrodactylus salaris (Gsal) => 26
+                                 Trematoda
+                                    Schistosoma japonicum (Sjap) => 27
+                                    Schistosoma mansoni (Sman) => 28
+                                 Cestoda
+                                    Echinococcus granulosus (Egra) => 29
+                                    Echinococcus multilocularis (Emul) => 30
+                                    Hymenolepis microstoma (Hmic) => 31
+                              Rotifera
+                                 Bdelloidea
+                                    Adineta vaga (Avag) => 32
+                              Mollusca
+                                 Bivalvia
+                                    Crassostrea gigas (Cgig) => 33
+                                    Pinctada fucata (Pfuc) => 34
+                                 Gastropoda
+                                    Lottia gigantea (Lgig) => 35
+                              Annelida
+                                 Polychaeta
+                                    Capitella teleta (Ctel) => 36
+                                 Hirudinea
+                                    Helobdella robusta (Hrob) => 37
+
+                           Ecdysozoa
+                             Nematoda
+                               Enoplea
+                                 Trichinella spiralis (Tspi) => 38
+                                 Romanomermis culicivorax (Rcul) => 39
+                               Chromadorea
+                                 Caenorhabditis elegans (Cele) => 40
+                                 Brugia malayi (Bmal) => 41
+                             Arthropoda
+                               Myriapoda
+                                 Strigamia maritima (Smar) => 42
+                               Chelicerata
+                                 Ixodes scapularis (Isca) => 43
+                                 Stegodyphus mimosarum (Smim) => 44
+                                 Mesobuthus martensii (Mmar) => 45
+                               Crustacea
+                                 Daphnia pulex (Dpul) => 46
+                               Hexapoda
+                                 Zootermopsis nevadensis (Znev) => 47
+                                 Drosophila melanogaster(Dmel) => 49
+                                 Tribolium castaneum (Tcas) => 48
+
+                           Deuterostomia
+                             Hemichordata
+                               Enteropneusta
+                                 Saccolossus kowaleski (Skow) => 50
+                             Echinodermata
+                               Echinoidea
+                                 Strongylocentrotus purpuratus (Spur) => 51
+                             Chordata
+                               Cephalochordata
+                                 Branchiostoma floridae (Bflo) => 52
+                               Urochordata
+                                 Ciona intestinalis (Cint) => 53
+                                 Ciona savygni (Csav) => 54
+                                 Botryllus schlosseri (Bsch) => 55
+                                 Oikopleura dioica (Odio) => 56
+                               Vertebrata
+                                 Danio rerio (Drer) => 57
+                                 Xenopus tropicales (Xtro) => 58
+                                 Gallus gallus (Ggal) => 59
+                                 Anolis carolinensis (Acar) => 60
+                                 Homo sapiens (Hsap) => 61
